@@ -1,8 +1,8 @@
-🎨 ArtBook
+## 🎨 ArtBook
 
 ArtBook, kullanıcıların kişisel sanat koleksiyonlarını keşfetmelerine, kaydetmelerine ve yönetmelerine olanak sağlayan Kotlin tabanlı bir Android uygulamasıdır. Kullanıcılar, eserlerin resimlerini, adını, sanatçısını ve yapım yılını ekleyebilir ve bu bilgileri düzenli bir listede görüntüleyebilir.
 
-🌟 Özellikler
+## 🌟 Özellikler
 
 Yeni Eser Ekleme: Kolayca resim, eser adı, sanatçı ve yıl bilgilerini girerek yeni eser ekleyebilirsiniz.
 
@@ -24,7 +24,7 @@ Görsel Optimizasyonu: Seçilen resimler otomatik olarak yeniden boyutlandırıl
 |---------------|---------|
 | <img src="screens/image.png" width="150"/> | <img src="screens/permission.png" width="150"/> |
 
-🛠 Uygulamanın Çalışma Mantığı
+## 🛠 Uygulamanın Çalışma Mantığı
 
 Veritabanı: Eser bilgilerini SQLite veritabanında saklar, resimleri BLOB olarak tutar.
 
@@ -35,7 +35,7 @@ View Binding: Layout ve UI güncellemelerini kolaylaştırır.
 İzinler: Android 13 ve alt sürümler için gerekli izinleri sorunsuz yönetir.
 
 
-⚙️ Teknolojiler
+## ⚙️ Teknolojiler
 
 Kotlin – Ana programlama dili
 
@@ -45,7 +45,7 @@ SQLite – Hafif veritabanı çözümü
 
 RecyclerView & ViewBinding – Dinamik ve sorunsuz kullanıcı arayüzü
 
-🎯 Gelecek Planları
+## 🎯 Gelecek Planları
 
 🔎 Arama ve Filtreleme: Eserleri isim, sanatçı veya yıl ile filtreleyebilme.
 
@@ -56,7 +56,7 @@ RecyclerView & ViewBinding – Dinamik ve sorunsuz kullanıcı arayüzü
 ✨ Animasyon ve UI Geliştirmeleri: Daha interaktif ve modern bir kullanıcı deneyimi.
 
 
-- **Demo GIF**
+## - **Demo GIF**
 <p align="center">
   <img src="screens/vangogh.gif" width="300"/>
 </p>
